@@ -1,0 +1,21 @@
+  
+{
+  "name": "ckeditor-5-classic-all",
+  "version": "19.0.1",
+  "description": "ckeditor-5-classic-all",
+  "main": "modules/ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ckeditor5"
+  ],
+  "author": "https://ckeditor.com/ckeditor-5/online-builder/",
+  "license": "ISC",
+  "devDependencies": {
+    
+  },
+  "dependencies": {
+    
+  }
+}
